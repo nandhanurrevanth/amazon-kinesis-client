@@ -5,6 +5,13 @@ The **Amazon Kinesis Client Library for Java** (Amazon KCL) enables Java develop
 * [Kinesis Product Page][kinesis]
 * [Forum][kinesis-forum]
 * [Issues][kinesis-client-library-issues]
+* # Amazon Kinesis Client Library for Java 
+
+The **Amazon Kinesis Client Library for Java** (Amazon KCL) enables Java developers to easily consume and process data from [Amazon Kinesis][kinesis].
+
+* [Kinesis Product Page][kinesis]
+* [Forum][kinesis-forum]
+* [Issues][kinesis-client-library-issues]
 
 ## Features
 
